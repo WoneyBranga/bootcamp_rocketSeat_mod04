@@ -103,3 +103,11 @@ yarn add style-loader css-loader -D
 ```bash
 yarn add file-loader -D
 ```
+
+---
+
+# 06 - Class Components
+
+```bash
+yarn add @babel/plugin-proposal-class-properties
+```
