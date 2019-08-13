@@ -1,8 +1,10 @@
 import React from 'react';
 import './App.css';
 
+import profile from './assets/homer.gif'
+
 function App() {
-  return <h1>Hello World-2</h1>
+  return <img src={profile} width='200px'/>
 }
 
 export default App;

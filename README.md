@@ -74,3 +74,32 @@ function Badge({ num }) {
 
 ---
 
+# 02 - configurando estrutura
+
+```bash
+yarn init -y
+yarn add @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli -D
+yarn add react react-dom
+
+yarn add babel-loader -D
+
+yarn add webpack-dev-server -D
+```
+
+---
+
+# 03 - Criando componente Raiz
+
+---
+
+# 04 - Importando CSS
+
+```bash
+yarn add style-loader css-loader -D
+```
+
+# 05 - Importando Imagens
+
+```bash
+yarn add file-loader -D
+```
