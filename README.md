@@ -137,3 +137,8 @@ com as prop-types podemos em nosso codigo definir o tipo dos parametros e sua ob
 
 # 11 - Ciclo de vida do componente
 
+---
+
+# 12 - Debugando React com DevTools
+
+na **Goolgle web store** procurar pela extensão ***react developer tools***
