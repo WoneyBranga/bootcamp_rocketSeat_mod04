@@ -111,3 +111,8 @@ yarn add file-loader -D
 ```bash
 yarn add @babel/plugin-proposal-class-properties
 ```
+
+---
+
+# 07 - Estado & Imutabilidade
+
