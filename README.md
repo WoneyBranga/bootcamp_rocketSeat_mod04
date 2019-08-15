@@ -116,3 +116,10 @@ yarn add @babel/plugin-proposal-class-properties
 
 # 07 - Estado & Imutabilidade
 
+---
+
+# 08 - Removendo itens do estado
+
+---
+
+# 09 - Propriedades do React
