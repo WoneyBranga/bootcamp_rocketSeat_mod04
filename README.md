@@ -132,3 +132,8 @@ yarn add @babel/plugin-proposal-class-properties
 yarn add prop-types
 ```
 com as prop-types podemos em nosso codigo definir o tipo dos parametros e sua obrigatoriedade, assim alertando no console quando receber infos fora do padrao definido.
+
+---
+
+# 11 - Ciclo de vida do componente
+
